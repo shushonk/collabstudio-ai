@@ -1,0 +1,6 @@
+{
+  "name": "CollabEditor AI",
+  "description": "An intelligent, real-time collaborative document editor featuring integrated Gemini AI writing assistance, multi-author conflict reconciliation, revision analysis, and structural audits.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
